@@ -1,0 +1,14 @@
+package com.testapp;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class ShoppingCartTest2 {
+
+	@Test
+	void testGetBalance() {
+		fail("Not yet implemented");
+	}
+
+}

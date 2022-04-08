@@ -1,0 +1,15 @@
+package com.abs;
+
+public class PublicSectorBank extends Bank{
+	
+	public void checkBalance() {
+		System.out.println("public balance");
+	}
+	public void withdraw() {
+		System.out.println("public withdraw");
+	}
+	public void deposit() {
+		System.out.println("public deposit");
+	}
+
+}

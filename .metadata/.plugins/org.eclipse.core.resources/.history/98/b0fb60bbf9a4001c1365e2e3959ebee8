@@ -1,0 +1,8 @@
+package com.minibank;
+
+public interface Banking {
+      public String withdraw(int amou);
+      public void deposit();
+      public void checkBalance();
+      
+}

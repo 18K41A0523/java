@@ -1,0 +1,21 @@
+package Assignments;
+
+public class Hostel extends InheritDemo{
+   String hstlname;
+   int roomno;
+public String getHstlname() {
+	return hstlname;
+}
+public void setHstlname(String hstlname) {
+	this.hstlname = hstlname;
+}
+public int getRoomno() {
+	return roomno;
+}
+public void setRoomno(int roomno) {
+	this.roomno = roomno;
+}
+public static void main(String args[]) {
+	Hostel obj=new Hostel();
+}
+}

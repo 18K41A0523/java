@@ -1,0 +1,5 @@
+package com.miniapp;
+
+public interface Restaurant {
+
+}

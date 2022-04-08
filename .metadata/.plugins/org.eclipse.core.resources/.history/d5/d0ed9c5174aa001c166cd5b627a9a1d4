@@ -1,0 +1,20 @@
+package com.testapp;
+
+import java.util.ArrayList;
+
+public class ShoppingCart {
+	private ArrayList<Product> al;
+	
+	public ShoppingCart() {
+		al=new ArrayList<Product>();
+	}
+	
+	public void addItem(Product product) {
+		al.add(product);
+	}
+	public int getItemscount() {
+		return al.size();
+	}
+	
+
+}

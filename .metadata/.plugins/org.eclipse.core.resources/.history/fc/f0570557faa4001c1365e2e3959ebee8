@@ -1,0 +1,14 @@
+package com.minibank;
+
+public class SBIBank implements Banking{
+	 public void withdraw() {
+		 System.out.println("Amount withdrawn");
+	 }
+     public void deposit() {
+    	 System.out.println("Amount deposited");
+     }
+     public void checkBalance() {
+    	 System.out.println("Checked");
+     }
+     
+}

@@ -1,0 +1,5 @@
+package com.minibank;
+
+public interface Banking {
+
+}

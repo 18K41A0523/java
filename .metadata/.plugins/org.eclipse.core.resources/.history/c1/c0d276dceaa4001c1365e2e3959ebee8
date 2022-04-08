@@ -1,0 +1,11 @@
+package com.inter;
+
+
+public class BanksMain {
+	public static void main(String[] args) {
+		Banks bank=new PublicSectorBanks();
+		bank.checkBalance();
+		bank.deposit();
+	}
+
+}

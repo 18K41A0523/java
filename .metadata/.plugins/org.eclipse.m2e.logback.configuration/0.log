@@ -1,0 +1,140 @@
+2022-03-14 18:19:49,865 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2022-03-14 18:21:16,490 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-15 09:24:39,315 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-15 14:04:59,109 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-16 09:58:40,243 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-16 14:41:27,249 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-16 17:12:53,124 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-17 09:11:36,454 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-17 13:39:24,950 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-21 09:34:23,146 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-21 14:06:20,999 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-22 09:25:19,304 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-22 13:52:10,227 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-23 09:39:19,303 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-23 10:40:47,955 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-23 14:12:01,264 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-23 14:32:12,956 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-simple/1.4/maven-archetype-simple-1.4.jar
+2022-03-23 14:32:13,319 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-simple/1.4/maven-archetype-simple-1.4.jar
+2022-03-23 14:32:13,491 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-simple/1.4/maven-archetype-simple-1.4.pom
+2022-03-23 14:32:13,664 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-simple/1.4/maven-archetype-simple-1.4.pom
+2022-03-23 14:33:38,568 [Worker-10: Creating maven-archetype-simple] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/ubuntu/Documents/myspace /mymavenpro/pom.xml
+2022-03-23 14:33:42,207 [Worker-10: Creating maven-archetype-simple] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pack:mymavenpro:0.0.1-SNAPSHOT @ /home/ubuntu/Documents/myspace /mymavenpro/pom.xml.
+2022-03-23 14:33:44,420 [Worker-10: Creating maven-archetype-simple] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mymavenpro/src/main/java
+2022-03-23 14:33:44,424 [Worker-10: Creating maven-archetype-simple] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mymavenpro/src/test/java
+2022-03-23 14:33:44,546 [Worker-10: Creating maven-archetype-simple] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2022-03-23 14:33:46,126 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2022-03-23 14:33:46,504 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2022-03-23 14:33:46,505 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2022-03-23 14:33:46,509 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2022-03-23 14:33:47,028 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 14:33:47,028 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/main/resources
+2022-03-23 14:33:47,033 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 14:33:47,034 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/test/resources
+2022-03-23 14:52:03,576 [Worker-19: Building Workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pack:mymavenpro:0.0.1-SNAPSHOT @ /home/ubuntu/Documents/myspace /mymavenpro/pom.xml.
+2022-03-23 14:52:03,744 [Worker-19: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 14:52:03,744 [Worker-19: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/main/resources
+2022-03-23 14:52:03,746 [Worker-19: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 14:52:03,746 [Worker-19: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/test/resources
+2022-03-23 14:52:04,573 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 14:52:04,573 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/main/resources
+2022-03-23 14:52:04,574 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 14:52:04,574 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/test/resources
+2022-03-23 14:52:05,558 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.7-dmr/mysql-connector-java-8.0.7-dmr-sources.jar
+2022-03-23 14:52:06,570 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.7-dmr/mysql-connector-java-8.0.7-dmr-sources.jar
+2022-03-23 14:52:06,571 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.7-dmr
+2022-03-23 14:52:06,792 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 14:52:06,792 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/main/resources
+2022-03-23 14:52:06,794 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 14:52:06,794 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/test/resources
+2022-03-23 14:59:53,452 [Worker-16: Launching Executing install in _home_ubuntu_Documents_myspace _mymavenpro] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/ubuntu/Documents/myspace /mymavenpro
+2022-03-23 14:59:53,454 [Worker-16: Launching Executing install in _home_ubuntu_Documents_myspace _mymavenpro] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2022-03-23 15:00:07,804 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:00:07,804 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/main/resources
+2022-03-23 15:00:07,805 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:00:07,805 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/test/resources
+2022-03-23 15:19:18,116 [Worker-16: Creating maven-archetype-simple] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/ubuntu/Documents/myspace /hibernatedemo/pom.xml
+2022-03-23 15:19:18,214 [Worker-16: Creating maven-archetype-simple] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pack:hibernatedemo:0.0.1-SNAPSHOT @ /home/ubuntu/Documents/myspace /hibernatedemo/pom.xml.
+2022-03-23 15:19:18,934 [Worker-16: Creating maven-archetype-simple] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hibernatedemo/src/main/java
+2022-03-23 15:19:18,938 [Worker-16: Creating maven-archetype-simple] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /hibernatedemo/src/test/java
+2022-03-23 15:19:18,980 [Worker-16: Creating maven-archetype-simple] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-03-23 15:19:19,390 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:19:19,390 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/main/resources
+2022-03-23 15:19:19,391 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:19:19,391 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/test/resources
+2022-03-23 15:20:42,577 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:20:42,578 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/main/resources
+2022-03-23 15:20:42,579 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:20:42,579 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/test/resources
+2022-03-23 15:22:46,173 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:22:46,173 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/main/resources
+2022-03-23 15:22:46,175 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:22:46,175 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/test/resources
+2022-03-23 15:44:15,849 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:44:15,850 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/main/resources
+2022-03-23 15:44:15,851 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:44:15,852 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/test/resources
+2022-03-23 15:44:34,477 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:44:34,477 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/main/resources
+2022-03-23 15:44:34,483 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:44:34,486 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/test/resources
+2022-03-23 15:54:13,997 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:54:13,997 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/main/resources
+2022-03-23 15:54:13,998 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 15:54:13,998 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/test/resources
+2022-03-23 16:00:20,020 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 16:00:20,020 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/main/resources
+2022-03-23 16:00:20,030 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 16:00:20,030 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/test/resources
+2022-03-23 16:18:31,571 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 16:18:31,571 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/main/resources
+2022-03-23 16:18:31,573 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 16:18:31,573 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/test/resources
+2022-03-23 17:01:14,151 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-23 17:23:15,932 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 17:23:15,932 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/main/resources
+2022-03-23 17:23:15,938 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 17:23:15,939 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/test/resources
+2022-03-23 17:23:17,932 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 17:23:17,934 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/main/resources
+2022-03-23 17:23:17,939 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-23 17:23:17,939 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/test/resources
+2022-03-24 09:40:50,490 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-24 12:58:59,636 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-25 09:47:45,153 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-25 09:48:08,109 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 09:48:08,110 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/main/resources
+2022-03-25 09:48:08,114 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 09:48:08,114 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/test/resources
+2022-03-25 09:48:10,096 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 09:48:10,096 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/main/resources
+2022-03-25 09:48:10,097 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 09:48:10,097 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/test/resources
+2022-03-25 11:41:17,074 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-25 11:41:32,233 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 11:41:32,233 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/main/resources
+2022-03-25 11:41:32,238 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 11:41:32,238 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/test/resources
+2022-03-25 11:41:35,286 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 11:41:35,287 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/main/resources
+2022-03-25 11:41:35,290 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 11:41:35,290 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/test/resources
+2022-03-25 14:13:50,895 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-25 14:14:04,791 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 14:14:04,792 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/main/resources
+2022-03-25 14:14:04,795 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 14:14:04,795 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/test/resources
+2022-03-25 14:14:06,435 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 14:14:06,435 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/main/resources
+2022-03-25 14:14:06,451 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-25 14:14:06,451 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/test/resources
+2022-03-25 15:31:39,486 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-28 09:34:01,010 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-03-28 09:34:17,587 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-28 09:34:17,588 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/main/resources
+2022-03-28 09:34:17,592 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-28 09:34:17,592 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /hibernatedemo/src/test/resources
+2022-03-28 09:34:19,256 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-28 09:34:19,256 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/main/resources
+2022-03-28 09:34:19,258 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-28 09:34:19,258 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/Documents/myspace /mymavenpro/src/test/resources

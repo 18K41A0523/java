@@ -1,0 +1,10 @@
+package jdbcDemo;
+
+public class StringDemo {
+	public static void main(String args[]) {
+		String s1="saikiran";
+		String s2=new String("saikiran");
+		System.out.println(s1.equals(s2));
+	}
+
+}
